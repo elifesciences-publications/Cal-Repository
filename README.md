@@ -1,3 +1,5 @@
+This code is associated with the paper from Corrigan et al., "A big-data approach to understanding metabolic rate and response to obesity in laboratory mice". eLife, 2020. http://dx.doi.org/10.7554/eLife.53560
+
 # Cal-Repository: Indirect calorimetry data for rodents
 Datasets and code for [A big-data approach to understanding metabolic rate and response to obesity in laboratory mice](https://www.biorxiv.org/content/10.1101/839076v1). :mouse: Analyses conducted in R and [CalR](https://calrapp.org/).
 ### Figure 1 and figure supplement 1
